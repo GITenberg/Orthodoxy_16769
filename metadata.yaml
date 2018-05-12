@@ -29,6 +29,8 @@ description: "Orthodoxy (1908) is a book by G. K. Chesterton that has become a c
   \ plainness of the Apostles' Creed, though he admitted the general sound of the\
   \ title was \"a thinnish sort of thing\".\nOrthodoxy was influential in the conversion\
   \ of Theodore Maynard to Roman Catholicism.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16769#Orthodoxy
 gutenberg_issued: '2005-09-28'
 gutenberg_type: Text
 identifiers:
