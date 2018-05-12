@@ -1,0 +1,55 @@
+_repo: Orthodoxy_16769
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: "Orthodoxy (1908) is a book by G. K. Chesterton that has become a classic\
+  \ of Christian apologetics. Chesterton considered this book a companion to his other\
+  \ work, Heretics, writing it expressly in response to G.S. Street's criticism of\
+  \ the earlier work, \"that he was not going to bother about his theology until I\
+  \ had really stated mine\". In the book's preface Chesterton states the purpose\
+  \ is to \"attempt an explanation, not of whether the Christian faith can be believed,\
+  \ but of how he personally has come to believe it.\" In it, Chesterton presents\
+  \ an original view of Christian religion. He sees it as the answer to natural human\
+  \ needs, the \"answer to a riddle\" in his own words, and not simply as an arbitrary\
+  \ truth received from somewhere outside the boundaries of human experience.\nThe\
+  \ book was written when Chesterton was an Anglican. He converted to Catholicism\
+  \ 14 years later. Chesterton chose the title, Orthodoxy, to focus instead on the\
+  \ plainness of the Apostles' Creed, though he admitted the general sound of the\
+  \ title was \"a thinnish sort of thing\".\nOrthodoxy was influential in the conversion\
+  \ of Theodore Maynard to Roman Catholicism.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16769'
+  wikidata: Q3486423
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christianity -- Essence, genius, nature'
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936'
+- !lcsh 'Apologetics'
+title: Orthodoxy
+url: http://www.gutenberg.org/ebooks/16769
+wikipedia:
+- https://fr.wikipedia.org/wiki/Orthodoxie_(essai)
+- https://ja.wikipedia.org/wiki/%E6%AD%A3%E7%B5%B1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B
+- https://cs.wikipedia.org/wiki/Ortodoxie_(kniha)
+- https://es.wikipedia.org/wiki/Ortodoxia_(libro)
+- https://en.wikiquote.org/wiki/Orthodoxy_(book)
+- https://en.wikipedia.org/wiki/Orthodoxy_(book)
+- https://it.wikipedia.org/wiki/Ortodossia_(saggio)
